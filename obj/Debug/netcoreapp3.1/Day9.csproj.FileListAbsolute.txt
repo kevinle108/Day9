@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\Day9\bin\Debug\netcoreapp3.1\Day9.exe
+C:\Users\kevin\source\repos\Day9\bin\Debug\netcoreapp3.1\Day9.deps.json
+C:\Users\kevin\source\repos\Day9\bin\Debug\netcoreapp3.1\Day9.runtimeconfig.json
+C:\Users\kevin\source\repos\Day9\bin\Debug\netcoreapp3.1\Day9.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\Day9\bin\Debug\netcoreapp3.1\Day9.dll
+C:\Users\kevin\source\repos\Day9\bin\Debug\netcoreapp3.1\Day9.pdb
+C:\Users\kevin\source\repos\Day9\obj\Debug\netcoreapp3.1\Day9.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Day9\obj\Debug\netcoreapp3.1\Day9.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Day9\obj\Debug\netcoreapp3.1\Day9.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Day9\obj\Debug\netcoreapp3.1\Day9.dll
+C:\Users\kevin\source\repos\Day9\obj\Debug\netcoreapp3.1\Day9.pdb
+C:\Users\kevin\source\repos\Day9\obj\Debug\netcoreapp3.1\Day9.genruntimeconfig.cache
